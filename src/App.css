@@ -7,6 +7,13 @@
   pointer-events: none;
 }
 
+h2{
+  font-family: 'Wallpoet', cursive;
+  font-size:72px;
+  color: darkred;
+
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
